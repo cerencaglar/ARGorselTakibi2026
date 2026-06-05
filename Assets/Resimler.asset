@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: Resimler
+  m_EditorClassIdentifier: Unity.XR.ARSubsystems::UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
+  m_GuidLow: 5584389855865046926
+  m_GuidHigh: 2051020864432296834
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4777159221262584235
+      m_GuidHigh: 1588851227718459296
+    m_SerializedTextureGuid:
+      m_GuidLow: 17358132254610924806
+      m_GuidHigh: 10208324516786710602
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Karpuz
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4902622809094701615
+      m_GuidHigh: 13867210281341568171
+    m_SerializedTextureGuid:
+      m_GuidLow: 13102292771768815480
+      m_GuidHigh: 11800246501143730313
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Avokado
+    m_Texture: {fileID: 0}
